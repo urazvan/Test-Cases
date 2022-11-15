@@ -85,9 +85,24 @@ Check if forgot password functionality works as expected and an email with reset
 3.	Add an email address
 4.	Press “Recover my password” button
 
-
 **Expected result**
 User should receive an email with a reset password link. The link should allow the user to create a new password.
 
 **Test data**
 User: test@yahoo.com
+
+___________________________________________________________________________________________________________
+
+**Description**
+Test the Search bar by searching a product.
+
+**Steps to reproduce**
+1. Go to site.com
+2. Type "HP Laptop" in the search bar
+3. Observe if the search will give you the right products
+
+**Expected result**
+User should be able to search a product and get the correct results for correct keywords.
+
+**Test data**
+Product: HP Laptop
